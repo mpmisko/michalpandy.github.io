@@ -1,0 +1,32 @@
+
+@import "bourbon/bourbon";
+
+@import "variables";
+@import "base/base";
+
+@import "layout";
+@import "syntax-highlighting";
+
+// MathJax styling
+.mjx-chtml.MathJax_CHTML {
+  color: #333333 !important; // Slightly softer than pure black
+}
+
+.mjx-chtml.MJXc-display {
+  margin: 2em 0 !important;
+}
+
+// Darker bold text
+strong, b {
+  color: #333333; // Slightly softer than pure black
+  font-weight: 700;
+}
+
+// Darker titles
+h1, h2, h3, h4, h5, h6 {
+  color: #333333; // Slightly softer than pure black
+}
+
+h2 {
+  margin-top: 1.2em;
+}
