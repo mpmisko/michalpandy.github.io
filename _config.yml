@@ -6,6 +6,7 @@ keywords: "Business, Founders, Artificial Intelligence, Machine learning, Roboti
 url: https://mpmisko.github.io # site url
 baseurl: "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover: "/assets/images/brain.svg" # image uri like logo/cover image for site seo
+favicon: "/assets/images/brain.svg" # site favicon
 
 google_analytics: G-CH67VSC667
 twitter_username: "@michal_pandy"
