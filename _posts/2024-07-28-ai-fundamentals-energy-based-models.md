@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI Fundamentals: Energy-Based Models"
-comments: true
+comments: false
 keywords: "AI, energy-based models"
 ---
 
