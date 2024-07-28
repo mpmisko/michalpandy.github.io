@@ -1,7 +1,7 @@
 # Site settings
 title_left: "Michal's "
 title_right: "corner" # default: ""
-description: "Personal blog of Michal Pándy. # site description
+description: "Personal blog of Michal Pándy. Come for the ai, stay for the jokes." # site description
 keywords: "Business, Founders, Artificial Intelligence, Machine learning, Robotics, College admissions, Self-driving vehicles"
 url: https://mpmisko.github.io # site url
 baseurl: "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
