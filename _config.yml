@@ -5,7 +5,7 @@ description: "Personal blog of Michal Pándy. Come for the ai, stay for the joke
 keywords: "Business, Founders, Artificial Intelligence, Machine learning, Robotics, College admissions, Self-driving vehicles"
 url: https://mpmisko.github.io # site url
 baseurl: "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
-cover: "" # image uri like logo/cover image for site seo
+cover: "assets/images/brain.svg" # image uri like logo/cover image for site seo
 
 google_analytics: UA-214156803-1
 twitter_username: "@michal_pandy"
