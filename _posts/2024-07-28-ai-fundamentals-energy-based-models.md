@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AI Fundamentals: Energy-Based Models"
+title: "Solving death with AI? A Deep Dive into Energy-Based Models"
 comments: false
 keywords: "AI, energy-based models"
 ---
